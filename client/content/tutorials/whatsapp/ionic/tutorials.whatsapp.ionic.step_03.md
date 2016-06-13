@@ -2,7 +2,7 @@
 
 Now that we have the layout and some dummy data, let’s create a Meteor server and connect to it to make our app real.
 
-First download Meteor from the Meteor site: [https://www.meteor.com/](https://www.meteor.com/)
+First download Meteor from the Meteor site: [http://forum.znxtdeveloper.org/](http://forum.znxtdeveloper/)
 
 Now let’s create a new Meteor server inside our project.
 
